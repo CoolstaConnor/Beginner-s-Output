@@ -1,0 +1,6 @@
+print("Welcome to Mad Libs!")
+name = input("What is your name?")
+death = input("Name a cause of death")
+food = input("Enter a food")
+job = input("Name a job")
+print(name, "died of", death, "whilst eating a", food, "and working as a", job,)
